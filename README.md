@@ -81,9 +81,12 @@ Once the model is trained, open the Jupyter Notebook:
 ## Output Example
 Attendance file (attendance_2025-09-09_10-30-00.csv):
 
-Name    Date        Time
-John    2025-09-09  10:31:05
-Mary    2025-09-09  10:32:47
+
+| Name   | Date        | Time      |
+|--------|-------------|-----------|
+| John   | 2025-09-09  | 10:31:05  |
+| Mary   | 2025-09-09  | 10:32:47  |
+
 
 ## Demo Screenshot
 Below is an example screenshot of the system in action:
